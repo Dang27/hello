@@ -10,6 +10,8 @@ Date:
 	int main (void) {
 	
 	printf("Kenny Le\n");
+	printf ("Joe Davis\n");
+	printf ("Undeclared\n");
 	return 0;
 }
 
